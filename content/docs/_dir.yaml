@@ -1,0 +1,9 @@
+title: Dokumentasi Teknis
+icon: lucide:book
+navigation.redirect: /docs/pitch-deck
+navBadges:
+  - value: New
+    type: lime
+sidebar:
+  style: group
+collapse: false
